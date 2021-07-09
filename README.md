@@ -12,7 +12,7 @@
   * [Heroku](#heroku-link)
     
   ## Description
-  This is a search engine for books using the googleapi for books! Users can sign up, search for books, and save their favorite ones! It now uses a GraphQL API, in place of it's old RESTful API.
+  This is a search engine for books using the Google Books API for books! Users can sign up, search for books, and save their favorite ones! It now uses a GraphQL API, in place of it's old RESTful API.
 
   ## Technologies used
   * REACT
